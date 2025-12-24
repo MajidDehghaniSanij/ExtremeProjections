@@ -1,6 +1,6 @@
 # ExtremeProjections
 
-Exploring meteorological projections from Global Climate Models (GCMs) over North America, with a focus on extreme climate events.
+Exploring meteorological projections from Global Climate Models (GCMs) over North America, with a focus on extreme climate events in CANADA.
 
 ---
 
@@ -50,7 +50,7 @@ Provides global, high-resolution daily climate projections from CMIP6 models.
 - Depict model uncertainty.
 
 ### 2. Watershed-level Analysis
-- Select specific basins for detailed future projection analysis.  
+- Select specific basins in CANADA for detailed future projection analysis.  
 - Depict model predictions of variables over the **historical and future periods (1950–2100)**.  
 - Depict model uncertainty.
 
