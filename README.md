@@ -72,3 +72,16 @@ Provides global, high-resolution daily climate projections from CMIP6 models.
 
 ## License
 [........... e.g., MIT License]
+
+## Project Structure
+
+
+ExtremeProjections/
+├── README.md
+├── data/
+├── scripts/
+│ ├── ecoregion_analysis/
+│ ├── watershed_analysis/
+│ └── climate_indices/
+├── notebooks/
+└── results/
