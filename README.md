@@ -1,6 +1,6 @@
 # ExtremeProjections
 
-Exploring meteorological projections from Global Climate Models (GCMs) over North America, with a focus on extreme climate events in CANADA.
+Exploring meteorological projections from Global Climate Models (GCMs) over **North America**, with a focus on extreme climate events in **Canada**.
 
 ---
 
@@ -50,12 +50,12 @@ Provides global, high-resolution daily climate projections from CMIP6 models.
 - Depict model uncertainty.
 
 ### 2. Watershed-level Analysis
-- Select specific basins in CANADA for detailed future projection analysis.  
+- Select specific basins in **Canada** for detailed future projection analysis.  
 - Depict model predictions of variables over the **historical and future periods (1950–2100)**.  
 - Depict model uncertainty.
 
 ### 3. Climate Indices & Extremes
-- Calculate indices such as **Warm Spell, CDDM, TRC** and other metrics related to extreme events.  
+- Calculate indices such as **Warm Spell, CDDM, TRC** and other metrics related to extreme events for the selected watersheds.  
 - Analyze indices over **historical and future periods (1950–2100)**.  
 - Assess model agreement in predicting extreme events.
 
