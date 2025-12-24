@@ -75,7 +75,6 @@ Provides global, high-resolution daily climate projections from CMIP6 models.
 
 ## Project Structure
 
-
 ExtremeProjections/
 ├── README.md
 ├── data/
@@ -85,3 +84,4 @@ ExtremeProjections/
 │ └── climate_indices/
 ├── notebooks/
 └── results/
+
