@@ -38,9 +38,7 @@ Provides global, high-resolution daily climate projections from CMIP6 models.
 ### 3. Watersheds
 [Canadian Lake and River Hydrofabric (CLRH)](https://hydrology.uwaterloo.ca/CLRH/Hydrofabric.html)
 
-- Properties and connectivity of subwatersheds, lakes, and rivers (~5 km² resolution).  
-- Includes local drainage areas of lakes >0.1 km².  
-- Used for basin-level climate projections and hydrological analysis.
+- Provides polygons for watershed delineation
 
 ---
 
@@ -57,7 +55,7 @@ Provides global, high-resolution daily climate projections from CMIP6 models.
 - Depict model uncertainty.
 
 ### 3. Climate Indices & Extremes
-- Calculate indices such as **Warm Spell Duration** and other metrics related to extreme events.  
+- Calculate indices such as **Warm Spell, CDDM, TRC** and other metrics related to extreme events.  
 - Analyze indices over **historical and future periods (1950–2100)**.  
 - Assess model agreement in predicting extreme events.
 
